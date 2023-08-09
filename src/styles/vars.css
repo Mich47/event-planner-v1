@@ -1,0 +1,40 @@
+:root {
+  /* fonts */
+  --font-primary: "Poppins", sans-serif;
+  --font-secondary: "Inter", sans-serif;
+  --font-logo: "Alata", sans-serif;
+
+  /* colors */
+  --color-accent: #7b61ff;
+  --color-accent-hover: #6243ff;
+  --color-hight: #ff2b77;
+  --color-hight-hover: #cc225f;
+  --color-medium: #e2a300;
+  --color-low: #6bd475;
+  --color-divider: #aca7c3;
+
+  /* background colors */
+  --background-color-primary: #ffffff;
+  --background-color-secondary: #fefcff;
+  --background-color-translucent: rgba(255, 255, 255, 0.8);
+
+  /* text-color */
+  --text-color-primary: #49454f;
+  --text-color-secondary: #3f3f3f;
+  --text-color-title: #1c1b1f;
+  --text-color-placeholder: #888888;
+
+  /* shadow */
+  --shadow-primary: 2px 4px 9px 0px rgba(166, 141, 174, 0.28);
+
+  /* animation */
+  --animation: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* media */
+  --media-xs: 320px;
+  --media-s: 576px;
+  --media-m: 768px;
+  --media-l: 992px;
+  --media-xl: 1200px;
+  --media-xxl: 1440px;
+}
